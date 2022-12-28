@@ -6,6 +6,6 @@
 
 [For All Single Image click here](./Icons/)
 
-[For All Single Picture](./Photos/)
+[**For All Single Picture**](./Photos/)
 
 ![Project 4](./Real%20Estate%20-%20Desktop.png)
